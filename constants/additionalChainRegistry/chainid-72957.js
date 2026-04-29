@@ -2,7 +2,7 @@
   "name": "Rayls Mainnet",
   "chain": "RLS",
   "rpc": [
-    "https://mainnet-rayls.com",
+    "https://mainnet-rpc.rayls.com",
   ],
   "faucets": [],
   "nativeCurrency": {
@@ -18,7 +18,7 @@
   "icon": "rayls",
   "explorers": [{
     "name": "Rayls Mainnet Explorer",
-    "url": "https://rayls.explorer.com",
+    "url": "https://explorer.rayls.com",
     "icon": "rayls",
     "standard": "EIP3091"
   }]
